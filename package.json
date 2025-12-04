@@ -2,6 +2,7 @@
   "name": "project-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ptsfdtz.github.io/react-management",
   "dependencies": {
     "@ant-design/icons": "^5.5.1",
     "@reduxjs/toolkit": "^2.2.7",
